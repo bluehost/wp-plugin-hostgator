@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "471371999764658c561cb16a3ad56fed",
+    "content-hash": "733666c7ad8225b1d83fc958224f2191",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -1554,16 +1554,16 @@
         },
         {
             "name": "newfold-labs/wp-module-onboarding",
-            "version": "2.5.5",
+            "version": "2.5.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/newfold-labs/wp-module-onboarding.git",
-                "reference": "b5c3e52bb9565461c7b35c4e4fbbb915327800e3"
+                "reference": "b901f549e402e35da1231b5fc5003facda23e9cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/newfold-labs/wp-module-onboarding/zipball/b5c3e52bb9565461c7b35c4e4fbbb915327800e3",
-                "reference": "b5c3e52bb9565461c7b35c4e4fbbb915327800e3",
+                "url": "https://api.github.com/repos/newfold-labs/wp-module-onboarding/zipball/b901f549e402e35da1231b5fc5003facda23e9cc",
+                "reference": "b901f549e402e35da1231b5fc5003facda23e9cc",
                 "shasum": ""
             },
             "require": {
@@ -1626,10 +1626,10 @@
             ],
             "description": "Next-generation WordPress Onboarding for WordPress sites at Newfold Digital.",
             "support": {
-                "source": "https://github.com/newfold-labs/wp-module-onboarding/tree/2.5.5",
+                "source": "https://github.com/newfold-labs/wp-module-onboarding/tree/2.5.6",
                 "issues": "https://github.com/newfold-labs/wp-module-onboarding/issues"
             },
-            "time": "2024-11-21T12:07:48+00:00"
+            "time": "2025-01-13T21:04:40+00:00"
         },
         {
             "name": "newfold-labs/wp-module-onboarding-data",
@@ -1739,16 +1739,16 @@
         },
         {
             "name": "newfold-labs/wp-module-performance",
-            "version": "2.2.0",
+            "version": "2.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/newfold-labs/wp-module-performance.git",
-                "reference": "a941dd7424672e51f6c47b69ec8e3427c8ebc850"
+                "reference": "e9a9183dfdc0449b95b73719e0027c4370f07a4f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/newfold-labs/wp-module-performance/zipball/a941dd7424672e51f6c47b69ec8e3427c8ebc850",
-                "reference": "a941dd7424672e51f6c47b69ec8e3427c8ebc850",
+                "url": "https://api.github.com/repos/newfold-labs/wp-module-performance/zipball/e9a9183dfdc0449b95b73719e0027c4370f07a4f",
+                "reference": "e9a9183dfdc0449b95b73719e0027c4370f07a4f",
                 "shasum": ""
             },
             "require": {
@@ -1784,23 +1784,23 @@
             ],
             "description": "A module for managing caching functionality.",
             "support": {
-                "source": "https://github.com/newfold-labs/wp-module-performance/tree/2.2.0",
+                "source": "https://github.com/newfold-labs/wp-module-performance/tree/2.3.2",
                 "issues": "https://github.com/newfold-labs/wp-module-performance/issues"
             },
-            "time": "2025-01-02T11:49:56+00:00"
+            "time": "2025-01-09T12:33:31+00:00"
         },
         {
             "name": "newfold-labs/wp-module-pls",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/newfold-labs/wp-module-pls.git",
-                "reference": "08b7c41b3d52d66414b6234389d7f4c414477d91"
+                "reference": "e68a79350e9eedcb592cd8e9ec79cc01e29e37a5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/newfold-labs/wp-module-pls/zipball/08b7c41b3d52d66414b6234389d7f4c414477d91",
-                "reference": "08b7c41b3d52d66414b6234389d7f4c414477d91",
+                "url": "https://api.github.com/repos/newfold-labs/wp-module-pls/zipball/e68a79350e9eedcb592cd8e9ec79cc01e29e37a5",
+                "reference": "e68a79350e9eedcb592cd8e9ec79cc01e29e37a5",
                 "shasum": ""
             },
             "require": {
@@ -1831,10 +1831,10 @@
             ],
             "description": "A Newfold module that handles license key provisioning, validation, and other lifecycle events for registered plugins using the PLS API via Hiive.",
             "support": {
-                "source": "https://github.com/newfold-labs/wp-module-pls/tree/1.0.0",
+                "source": "https://github.com/newfold-labs/wp-module-pls/tree/1.0.1",
                 "issues": "https://github.com/newfold-labs/wp-module-pls/issues"
             },
-            "time": "2024-10-23T09:11:18+00:00"
+            "time": "2024-12-11T19:31:32+00:00"
         },
         {
             "name": "newfold-labs/wp-module-runtime",
@@ -2038,16 +2038,16 @@
         },
         {
             "name": "newfold-labs/wp-module-survey",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/newfold-labs/wp-module-survey.git",
-                "reference": "8bf26c9bc6b1da4c09e03e747da0d525c11df07b"
+                "reference": "e41860c62d1b0c3d4e752b140b8df0773b1be459"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/newfold-labs/wp-module-survey/zipball/8bf26c9bc6b1da4c09e03e747da0d525c11df07b",
-                "reference": "8bf26c9bc6b1da4c09e03e747da0d525c11df07b",
+                "url": "https://api.github.com/repos/newfold-labs/wp-module-survey/zipball/e41860c62d1b0c3d4e752b140b8df0773b1be459",
+                "reference": "e41860c62d1b0c3d4e752b140b8df0773b1be459",
                 "shasum": ""
             },
             "require-dev": {
@@ -2074,10 +2074,10 @@
             ],
             "description": "A Newfold module to collect customer satisfaction feedback via surveys in the WordPress admin dashboard.",
             "support": {
-                "source": "https://github.com/newfold-labs/wp-module-survey/tree/1.0.1",
+                "source": "https://github.com/newfold-labs/wp-module-survey/tree/1.0.2",
                 "issues": "https://github.com/newfold-labs/wp-module-survey/issues"
             },
-            "time": "2024-08-20T05:34:40+00:00"
+            "time": "2025-01-03T04:32:27+00:00"
         },
         {
             "name": "psr/http-client",
@@ -2562,16 +2562,16 @@
         },
         {
             "name": "wp-forge/wp-htaccess-manager",
-            "version": "1.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-forge/wp-htaccess-manager.git",
-                "reference": "f1fac7af85c0d75a211a5d0e73cd43a7d62debe8"
+                "reference": "203f0e54378ce2cad9ec8c272851bc7170efcbb1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-forge/wp-htaccess-manager/zipball/f1fac7af85c0d75a211a5d0e73cd43a7d62debe8",
-                "reference": "f1fac7af85c0d75a211a5d0e73cd43a7d62debe8",
+                "url": "https://api.github.com/repos/wp-forge/wp-htaccess-manager/zipball/203f0e54378ce2cad9ec8c272851bc7170efcbb1",
+                "reference": "203f0e54378ce2cad9ec8c272851bc7170efcbb1",
                 "shasum": ""
             },
             "type": "library",
@@ -2596,9 +2596,9 @@
             "description": "A helper library for making changes to .htaccess files in WordPress.",
             "support": {
                 "issues": "https://github.com/wp-forge/wp-htaccess-manager/issues",
-                "source": "https://github.com/wp-forge/wp-htaccess-manager/tree/1.0"
+                "source": "https://github.com/wp-forge/wp-htaccess-manager/tree/1.0.1"
             },
-            "time": "2022-04-01T16:21:01+00:00"
+            "time": "2025-01-13T16:12:03+00:00"
         },
         {
             "name": "wp-forge/wp-options",
@@ -4163,5 +4163,5 @@
     "platform-overrides": {
         "php": "7.3.0"
     },
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.3.0"
 }
